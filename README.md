@@ -49,12 +49,13 @@ Optional Together AI Upload
 
 ```text
 Local-Mistral-Chatbot/
-├── mistral_script.py
-├── txttojsonl.py
-├── check.py
+├── .gitignore
 ├── Modelfile
+├── README.md
+├── check.py
+├── mistral_script.py
 ├── requirements.txt
-└── .gitignore
+└── txttojsonl.py
 ```
 
 Generated conversations and datasets are intentionally excluded from version control.
