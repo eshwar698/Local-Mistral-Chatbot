@@ -1,0 +1,23 @@
+﻿# Generated datasets and conversations
+data/
+data1.jsonl
+*.txt
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
